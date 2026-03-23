@@ -20,6 +20,8 @@
 
 ### 🎮 Game Manager & UI
 * **스테이지 선택 (Stage Selector)**: Enum 기반의 스테이지 관리 및 페이지를 넘기는 듯한 UI 연출 구현.
+* ![Select_Stage](https://github.com/user-attachments/assets/42314229-de5c-4ab7-b782-44c4e705879e)
+
 * **리소스 관리**: `Resources.Load<Sprite>`를 활용하여 스테이지 선택에 따른 프리뷰 이미지를 동적으로 교체합니다.
 
 ### 🕹️ 핵심 로직 (Core Logic)
